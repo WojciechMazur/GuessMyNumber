@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess My Number</string>
+    <string name="game_tutorial">Welcome\n
+    Please enter your guess in above form\n
+    Then click Check button\n
+    Good luck!</string>
+</resources>
